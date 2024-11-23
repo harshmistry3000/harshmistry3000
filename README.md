@@ -1,5 +1,8 @@
 
-# Hello there, I am Harsh Mistry  🎮 
+# Hello there, I am Harsh Mistry  
+
+<a href="https://emoji.gg/emoji/6691-demonslayer-kyojuro2"><img src="https://cdn3.emoji.gg/emojis/6691-demonslayer-kyojuro2.png" width="64px" height="64px" alt="DemonSlayer_Kyojuro2"></a> 
+
 
 ```javascript
 class Attributes {
