@@ -1,8 +1,9 @@
 
 # Hello there, I am Harsh Mistry  
 
-<a href="https://emoji.gg/emoji/6691-demonslayer-kyojuro2"><img src="https://cdn3.emoji.gg/emojis/6691-demonslayer-kyojuro2.png" width="64px" height="64px" alt="DemonSlayer_Kyojuro2"></a> 
 
+
+![when im angry at my friend](https://github.com/user-attachments/assets/00a2997f-0cad-4048-973e-55091424877c) 
 
 ```javascript
 class Attributes {
