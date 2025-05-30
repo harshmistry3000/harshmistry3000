@@ -21,14 +21,14 @@ class Attributes {
 
     static life() {
         const langs = ['English', 'Hindi', 'Gujarati'];
-        const age = 20;
+        const age = 21;
         return [langs, age];
     }
 
     static coding() {
         const langs = {
-            expert: ['JavaScript', 'ReactJS', 'Node/Express'],
-            intermediate: ['Java', 'ReactNativeExpo'],
+            expert: ['JavaScript','ReactJS'],
+            intermediate: ['Java',C, 'ReactNativeExpo','Node/Express'],
             learning: [ 'C++', 'Competitive Programming']
         };
         const specialities = ['Frontend/ReactJS'];
