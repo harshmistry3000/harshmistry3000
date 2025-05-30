@@ -9,7 +9,7 @@
 class Attributes {
     static channels() {
         const discord = "discord.com/users/879215767516745749";
-        const linkedin = "";
+        const linkedin = "https://www.linkedin.com/in/harsh-mistry-5256292a5/";
         return [discord, linkedin];
     }
 
